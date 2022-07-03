@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23/06/2022, 21:51:44
+    Author     : david
+*/
+
+.imagen_fondo{
+    background-image: url(../img/herr2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: content-box;
+}
+
+.titulo{
+    color: azure;
+    text-align: center;
+    padding-top: 4em;
+    font-style: oblique;
+}
+
+.mucho_texto{
+    color: azure;
+    text-align: center;
+    padding-top: 1em;
+    font-style: oblique;
+}
